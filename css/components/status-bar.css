@@ -2,7 +2,6 @@
   display: flex;
   justify-content: center;
   padding: 5px 3px;
-  /* position: fixed; */
 }
 
 .status-bar__column {
@@ -20,6 +19,6 @@
   justify-content: flex-end;
   align-items: center;
 }
-s .status-bar__column .fa-battery-full {
+.status-bar__column .fa-battery-full {
   margin: 0px 5px;
 }
